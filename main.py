@@ -1,6 +1,6 @@
 import pygame
-from utils import *
-from commands import *
+from src.utils import *
+from src.commands import *
 pygame.init()
 
 CHAR_W = 80
