@@ -1,4 +1,4 @@
-from utils import *
+from src.utils import *
 
 def ver(lines):
     printf(lines, "FowlKern v1.0.0", 2)

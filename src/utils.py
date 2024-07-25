@@ -1,5 +1,3 @@
-import pygame
-
 def printf(lines, text, newlines = 0, prenewl = 0):
     for i in range(prenewl):
         lines.append("")
